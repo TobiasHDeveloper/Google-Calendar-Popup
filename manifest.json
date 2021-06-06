@@ -1,0 +1,15 @@
+{
+    "name": "Google Calendar Popup",
+    "version": "0.1",
+    "manifest_version": 2,
+    "description": "Open google calendar in popup-window, to make it feel like a dedicated program",
+    "browser_action": {},
+    "background": {
+        "scripts": ["bg.js"]
+    },
+    "icons": {
+        "128": "128.png",
+        "48": "48.png",
+        "16": "16.png"
+    }
+}
